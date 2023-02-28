@@ -3,4 +3,7 @@
     <string name="app_title">Práctica 1 Sergio Martí</string>
     <string name="put_your_name">Introduce tu nombre:</string>
     <string name="default_name">Perico los palotes</string>
+    <string name="hi_default">Hola</string>
+    <string name="warning_no_name">Es necesario introducir el nombre.</string>
+    <string name="hi_to_user">¡¡Hola %s!!</string>
 </resources>
